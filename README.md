@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Pari Maurya</h1>
 <h3 align="center">A girl passionate about building impactful tech solutions!</h3>
 
