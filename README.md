@@ -1,11 +1,11 @@
 <h1 align="center">✨ Hi 👋, I'm</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E75B6&height=180&section=header&text=Nisha%20Kumari&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0E75B6&height=180&section=header&text=Pari%20Maurya&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Passionate+about+coding;⚡+Problem+Solving+Mindset;📊+Learning+Java;🧠+Mastering+DSA;📈+Exploring+Data+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💡+Passionate+about+coding;⚡+Problem+Solving+Mindset;📊+Learning+Java;🧠+Mastering+DSA; />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 💫 About Me
 
 - 💡 Passionate about coding & problem-solving  
-- 🚀 Currently diving into **Java, DSA & Data Analytics**  
+- 🚀 Currently diving into **Java, DSA & Web Dev**  
 - 🧠 Love learning new technologies  
 - 📈 Improving problem-solving skills daily  
 
@@ -27,9 +27,9 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&layout=compact&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Pari-Maurya&layout=compact&theme=tokyonight"
     media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niiishahac&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pari-Maurya&layout=compact" />
 </picture>
 
 </td>
@@ -44,16 +44,16 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nisha-kumari-b62a9432a/">
+<a href="www.linkedin.com/in/pari-maurya12/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="https://leetcode.com/u/nishakumari123/">
+<a href="https://leetcode.com/u/PariMaurya123/">
 <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
 </a>
-<a href="https://www.codechef.com/users/worth_fire_56">
+<a href="https://www.codechef.com/users/pari_maurya">
 <img src="https://cdn.simpleicons.org/codechef" height="50"/>
 </a>
-<a href="https://www.geeksforgeeks.org/profile/nisha23b7kct">
+<a href="https://www.geeksforgeeks.org/profile/parimaurfk5u">
 <img src="https://cdn.simpleicons.org/geeksforgeeks" height="50"/>
 </a>
 </p>
@@ -66,19 +66,17 @@
 <tr>
 <td width="50%">
 
-<img src="https://leetcard.jacoblin.cool/nishakumari123?theme=dark&ext=contest" />
-
 </td>
 
 <td width="50%" align="center">
 
-<a href="https://www.codechef.com/users/worth_fire_56">
+<a href="https://www.codechef.com/users/pari_maurya">
 <img src="https://img.shields.io/badge/CodeChef-worth_fire_56-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://www.geeksforgeeks.org/profile/nisha23b7kct">
+<a href="https://www.geeksforgeeks.org/profile/parimaurfk5u">
 <img src="https://img.shields.io/badge/GeeksforGeeks-nisha23b7kct-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
@@ -106,8 +104,8 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/niiishahac/niiishahac/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/Pari-Maurya/Pari-Maurya/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Pari-Maurya/Pari-Maurya/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
 
@@ -116,6 +114,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niiishahac&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niiishahac&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pari-Maurya&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pari-Maurya&theme=tokyonight" />
 </p>
