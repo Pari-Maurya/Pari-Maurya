@@ -60,29 +60,6 @@
 
 ---
 
-<h3 align="center">🏆 Competitive Programming</h3>
-
-<table>
-<tr>
-<td width="50%">
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://www.codechef.com/users/pari_maurya">
-<img src="https://img.shields.io/badge/CodeChef-worth_fire_56-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.geeksforgeeks.org/profile/parimaurfk5u">
-<img src="https://img.shields.io/badge/GeeksforGeeks-nisha23b7kct-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -114,6 +91,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pari-Maurya&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pari-Maurya&theme=tokyonight" />
 </p>
